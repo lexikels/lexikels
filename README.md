@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi I am Lexi Kelsall!
 
-<!--
-**lexikels/lexikels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Projects
 
-Here are some ideas to get you started:
+<a href="[https://github.com/SpiderwebProtech/WebInfoTech-DiabetesAtHome">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpiderwebProtech&repo=WebInfoTech-DiabetesAtHome" alt="GitHub Stats" />
+    </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/IT-Project-Dream-Team/it-project-frontend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT-Project-Dream-Team&repo=it-project-frontend" alt="GitHub Stats" />
+    </a>
+
+<a href="https://github.com/IT-Project-Dream-Team/it-project-backend">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=IT-Project-Dream-Team&repo=it-project-backend" alt="GitHub Stats" />
+    </a>
+    
